@@ -1,0 +1,47 @@
+body {
+  background-color: #000066;
+
+
+}
+
+div {
+  display:flex;
+  background-color: lightblue;
+  width:70%;
+  flex-flow: column;
+  text-align: center;
+  margin:auto;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size:25px;
+}
+p {
+  color: white;
+}
+
+h1 {
+  background-color: grey;
+  color: grey;
+}
+
+h2 {
+  color: grey;
+}
+
+h3 {
+  color: grey;
+}
+header{
+
+  
+  margin:auto;
+  text-align: center;
+  font-size: 100px;
+
+}
+
+
+img {
+  margin:auto;
+  padding-left: 25px;
+}
